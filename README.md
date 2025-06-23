@@ -91,12 +91,13 @@ Utilized **Transfer Learning** with **MobileNetV2** pre-trained on ImageNet.
 
 Computed **class weights** based on image counts to penalize errors in the minority class (defective) more heavily.
 
-```python
+python
 counts = [391, 10]
 class_weights = {
     0: 401/2/391,  # non-defective
     1: 401/2/10    # defective
 }
+
 
 ## 📈 Training & Validation
 
