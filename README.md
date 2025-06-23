@@ -165,20 +165,4 @@ class_weights = {
 - Explore **model quantization** and deploy on edge devices  
 - Conduct **hyperparameter tuning** and test other architectures (EfficientNet, ResNet)
 
----
 
-## Repository Structure
-
-ML_Assignment/
-├── data/
-│ └── hazelnut/
-├── hazelnut_train_binary/
-├── hazelnut_test_binary/
-├── src/
-│ ├── data_preparation.py
-│ ├── model_training.ipynb
-│ ├── model_evaluation.py
-│ └── visualization.py
-├── report.md
-├── requirements.txt
-└── README.md
