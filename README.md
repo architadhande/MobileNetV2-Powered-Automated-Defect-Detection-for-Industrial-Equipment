@@ -28,7 +28,7 @@ The dataset provided was the **Hazelnut dataset**, structured with images split 
   - `hole`
   - `print`
 
-### 📊 Original Class Distribution:
+### Original Class Distribution:
 | Set   | non-defective | defective |
 |:------------|:----------------|:------------|
 | Train | 391 | 0 |
