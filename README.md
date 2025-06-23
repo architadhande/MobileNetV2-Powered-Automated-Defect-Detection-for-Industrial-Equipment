@@ -12,8 +12,7 @@ The objective of this project was to develop an image classification system capa
 - **Non-Defective**
 
 Bonus goals included:
-- Identifying specific types of defects (e.g. crack, cut, hole, print)
-- Exploring optimizations for inference on hardware accelerators (GPU/TPU)
+- Hardware: All model training was performed on a Google Cloud TPU runtime in Google Colab for accelerated computation.
 
 ---
 
